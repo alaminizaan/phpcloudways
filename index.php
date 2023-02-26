@@ -1,4 +1,5 @@
 <?php
+ob_end_flush();
 
 // Set API endpoint and trading fee
 define('API_ENDPOINT', 'https://api.binance.com/api/v3/ticker/price');
