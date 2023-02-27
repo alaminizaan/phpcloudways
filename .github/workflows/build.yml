@@ -1,4 +1,4 @@
-name: Install Dependencies
+name: build
 
 on:
   push:
